@@ -1,0 +1,10 @@
+
+
+a vector is  basically a resizable array it stores multiple elements of the
+same datatype the key difference between a array and a vector is arrays cannot
+be changed but in vectors you can remove and add elements to it and vectors 
+also have many usefull built in functions to modify it easily
+
+vectors are usefull for storing data that isent permanent and will have things added and removed
+from it
+

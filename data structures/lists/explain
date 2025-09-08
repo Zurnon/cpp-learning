@@ -1,0 +1,9 @@
+lists are similier to vectors as in you can have multiple elements of the same type and
+it can dynamically grow in size
+
+the two big differences between a vector and a list
+1. you can remove elementrs from the both the beginning and the end while vectors are optimized for changes at the end
+2. unlike a vectors a list does not support random access meaning you cannot directly jump to a specific index or access
+   elements by index numbers
+
+there usefull for just holding data and adding/removing elements at any point

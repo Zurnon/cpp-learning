@@ -1,0 +1,8 @@
+
+
+deque stand for double ended queue in queues you can only add on the back and remove from the front
+in deques you can add and remove from both the front and back and you can access things by index
+
+deques are dynamic so they can grwo and shrink as you like just like in vectors
+
+
