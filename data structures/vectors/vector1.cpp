@@ -4,9 +4,9 @@
 using namespace std;
 
 template <typename Type>
-struct MyVector {
-    vector<Type> vec;
-};
+    struct MyVector {
+        vector<Type> vec;
+    };
 
 int main() {
     MyVector<int> myVec;
